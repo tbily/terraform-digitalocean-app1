@@ -6,7 +6,3 @@ terraform {
     }
   }
 }
-
-provider "digitalocean" {
-  # Configuration options
-}
